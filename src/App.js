@@ -84,7 +84,7 @@ function App() {
           <p></p>
 
       }
-      <Text/>
+      {/* <Text/> */}
     </div>
   );
 }
